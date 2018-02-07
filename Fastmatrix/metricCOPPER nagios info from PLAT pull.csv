@@ -1,0 +1,13 @@
+id,name,active,techcontname,techcontcell,cktnumber,speed,installlocation,ip4address,notifyemail,fmaccessrouter
+2397,Double-D Engineering,Y,Don David,415-225-7714,105-077-950,10 x 10mbps,72 Otis  SF CA 94103,216.38.148.206,don@doubledengineering.com,AR1
+2259,"ThreatStream, Inc.",Y,Andrea Dazols,,105-001-279,15mbps x 15mbps,2317 Broadway St  3rd FL  RWC CA 94063,64.205.122.194,"jarrad.chorney@threatstream.com, adazols@threatstream.com",GTT
+2145,Shasta Crystals,Y,Kevin McCarthy,,104-679-900,8mbps/8mbps,1750 Cesar Chavez Unit J SF CA 94124,205.179.29.1,kmccarthy38@gmail.com,GTT
+1949,"Hilliard Architects, Inc.",Y,John Spellman,415-309-1430,105-018-233,10mbps / 10mbps,1330 Broadway #1111 Oakland CA 94612,216.38.133.102,"mhilliard@hilliardarchitects.com, lhilliard@hilliardarchitects.com, john@spellmanconsulting.net",AR1
+2456,Visual Supply Company,Y,Benji Hertel,,105-125-440,30 x 30mbps,"1500 Broadway St, 3rd FL  Oakland CA 94612",216.38.133.178,"benji@vsco.co, todd@vsco.co",AR1
+1558,Anderson Poole,Y,Mark Lau,,104-829-859,10mbps / 10mbps,601 California St #1300  SF CA 94108,216.38.132.178,mlau@nettechwest.com,AR1
+2474,Broadly,Y,Matt Baker,,105-129-761,15 x 15mbps,1500 Broadway St #200  Oakland CA 94612,216.38.151.90,matt@broadly.com,AR1
+1099,Curcio Webb LLC,Y,Eric Goldman,215-431-1475,105-140-222,5mbps,"610 16th Street, Oakland CA 94612",204.153.194.170,egoldman@curciowebb.com,AR1
+2183,Airport Home Appliance - Concord,Y,Ed Morey,,104-914-712,3mbps / 3mbps,1505 Willow Pass Rd  Concord CA 94520,216.38.135.50,"edmorey@ejmnetworks.com, alicia@airportappliance.com, fillian@airportappliance.com",AR1
+2285,"The Fogel Company, Inc.",Y,Stork Rein,,104-943-720,10mbps x 10mbps,4431 California St  SF CA 94118,216.38.135.58,"mbharper@comcast.net, MacAlvarez98@outlook.com",AR1
+2291,"Sailthru, Inc.",Y,Christopher Walker,646-234-7495,104-952-595,10mbps x 10mbps,"360 Clementine St, SF CA 94102",216.38.151.46,cwalker@sailthru.com,AR1
+1447,Lawless & Lawless,Y,"Erick,",415-816-1736,105-127-233,10mbps x 10mbps,"354 Pine St SAN FRANCISCO, CA 94104",216.38.132.82,"creyes@lawlesssf.com, blawless@lawlesssf.com, tlawless@lawlesssf.com, matt@people1st.com",AR1

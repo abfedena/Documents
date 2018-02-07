@@ -1,0 +1,239 @@
+id,name,active,techcontname,techcontcell,mfspeed,instlocation,vlanid,ipaddress,remotecid,notifyemail,fmaccessrouter
+2413,"Virtually LIve US, Inc",Y,Sam Sweeley,,100 Mbps,"605 Market St, 7th Floor  SF CA 94105",530,216.38.152.130,86/KRGN/585375//PT,"samuelcsweeley@gmail.com, stephanie@virtuallylive.com",AR3
+2016,fiberIVY - 425 Sherman,Y,,,250 Mbps,425 Sherman Ave  Palo Alto CA 94301,637,216.38.155.134,86/KRGN/573302//PT,,AR2
+2412,Barry S Slatt Mortgage Company - Burlingame,Y,Michael Dayoan,650-477-6476,50 Mbps,"819 Mitten Rd, Burlingame CA 94010",532,216.38.132.30,86/KQGN/593651//PT,"michaeld@slatt.com, danield@slatt.com",AR3
+2138,Circle Up,Y,Erik Van de Kieft,650-218-3859,100 Mbps,30 Maiden Lane 6th Floor  SF CA 94108,1506,216.38.130.126,86/KQGN/598530//PT,"reakin@circleup.com; evandekieft@circleup.com, ssymonds@circleup.com",AR3
+2438,xAd,Y,Bruce Reed,408-833-4571,20 Mbps,234 Front St  SF CA 94111,535,216.38.133.218,86/KQGN/595026//PT,"it-billing@xad.com, bruce.reed@xad.com, chris.marland@xad.com",AR3
+2530,Autoneum North America  PO # 4300055804,Y,Steve Bryant,248-219-7516,100 Mbps,1235 Midas Way  Sunnyvale CA 94085,1525,216.38.151.58,86/KQGN/600549//PT,steve.bryant@autoneum.com,AR3
+1593,Swissnex,Y,Anne Amis   See notes for other authorized personnel,,200 Mbps,Pier 17  Suite 800  SF CA 94111,550,216.38.154.198,86/KRGN/579393//PT,sf_it@swissnexsanfrancisco.org,AR3
+2552,"Fronteo USA, Inc",Y,Carlos Sanchez,415-845-1819,1 gbps,611 Mission St FL4 SF CA 94105,351,216.38.132.50,1X/KFFN/002877/LVLC,csanchez@fronteo.com,AR3
+1085,Clift Hotel,Y,Matt Jones / Dan,510-813-5922,250 Mbps,495 Geary St  SF CA 94102,634,216.38.142.66,86/KRGN/573294//PT,"matt.jones@sbe.com, christopher.barbosa@sbe.com, bashar.saba@sbe.com",AR3
+2574,"American Giant, Inc.",Y,Evan Jones,,50 Mbps,161 Natoma St  SF CA 94105,734,173.195.78.106,86/KQGN/602696//PT,"evan@itjones.com, pete@american-giant.com",AR2
+2444,GearLaunch,Y,Thatcher Spring,,70 Mbps,"2343 Front St, 3rd FL  SF CA 94111",535,216.38.156.118,86/KQGN/595026//PT,thatcher@gearlaunch.com,AR3
+1928,"Impetus Technologies, Inc.",Y,Vikas Khanbelwan,,50 Mbps,720 University Ave #130  Los Gatos CA 95032,,216.38.138.242,63.VLXP.013960..CBCL,cgrady@impetus.com; vikas@impetus.com,AR1
+2610,"Nebbiolo Technologies, Inc.",Y,Palani Chinnakannan,,300 mbps,860 Hillview Ct #310  Milpitas CA 95035,,99.0.84.186,253 419894,pals@nebbiolotech.com,AT&T Uverse
+1912,"Town & Country Resources, Inc.",Y,Stanley Hutchinson,650-346-5085 (cell)   650-475-8603 (direct),20 Mbps,425 Sherman Ave #130 Palo Alto CA 94306,,216.38.156.106,86/KRGN/573302//PT,"stanley@tandcr.com, jens@tandcr.com, bev@tandcr.com",
+1912,"Town & Country Resources, Inc.",Y,Stanley Hutchinson,650-346-5085 (cell)   650-475-8603 (direct),20 Mbps,1333 Broadway #1020  Oakland CA 94612,670,216.38.156.108,86/KQGN/587373//PT,"stanley@tandcr.com, jens@tandcr.com, bev@tandcr.com",
+1984,International Technological University,Y,Kranthi,,500Mbps,2711 N First St  San Jose CA 95134,504,216.38.155.198,86KRGN575374PT,"kranthi@itu.edu, fleo@itu.edu",AR3
+1931,Oncept,Y,JP Crametz,,100 Mbps,425 Sherman St. Ste 310  Palo Alto CA 94306,205,216.38.152.150,86/KRGN/573302//PT,"jp@oncept.net, venkat@oncept.net, janderson@oncept.net",
+2126,Tora Trading Services Ltd.,Y,Nick Mussallem,415-250-4489,100 Mbps,1440 Chapin Ave #205 Burlingame CA 94010,744,173.195.77.138,86/KRGN/585220//PT,"it.admin@tora.com, nick.mussallem@tora.com",AR3
+2428,Pacific Coast Electricians - previously MIke Counsil,Y,Kim Hancock,408-212-0230,10 Mbps,2372 Qume Dr  San Jose CA 95131,537,204.153.195.6,86/KQGN/594739//PT,kim@pacificcoastelectricians.com,AR3
+2353,Nuviso Networks,Y,Saci Nambakkam,,100 Mbps,691 S Milpitas Blvd #210  Milpitas CA 95035,703,216.38.132.250,86/KQGN/589257//PT,saci@nuviso.com,AR2
+2410,"UNU Electronics, Inc",Y,Grace Kuang,,20 Mbps,"30940 San Clemente St, Hayward CA 94544",534,216.38.152.142,86/KQGN/593432//PT,account@myunu.com,AR3
+1199,Keker Van Nest & Peters LLP,Y,Steven McCue,415-760-3939,250 Mbps,633 Battery St  SF CA 94111,651,216.38.151.42,86/KRGN/574089//PT,SMcCue@kvn.com,AR3
+1175,PS Print a Deluxe Company,Y,TONY LINDSAY/Dawn Eisenberg/Arnie Spencer/Madeline Washington,510-504-2739,100 Mbps,2861 Mandela Pkwy Oakland CA 94608,135,216.38.152.244,40/L2XN/000010//001PT,"AMIT.MENGHANI@deluxe.com, TONY.LINDSAY@deluxe.com, vcc-telecom@deluxe.com",AR1
+1971,Dakota Carrier Network,Y,Arlen Berger,415-518-9478,10 Mbps,999 5th Ave #500 San Rafael CA 94901,652,216.38.150.138,86/KQGN/583790//PT,"bpfeifer@dakotacarrier.com, techsupport@dakotacarrier.com, Maintenance@dakotacarrier.com",Do Not Monitor
+2513,"June Life, Inc.",Y,Kelly Balou,,250 Mbps,649 Front St #100  SF CA 94111,1509,216.38.156.194,86/KRGN/581868//PT,"kelly@junelife.com, john@junelife.com, gabe@junelife.com",AR3
+1199,Keker Van Nest & Peters LLP,Y,Steven McCue,415-760-3939,100 Mbps,"4235 Forcum Ave, McClellan CA 95652",,207.114.171.142,64/KFFN/108860/TWCS,SMcCue@kvn.com,Century Link
+2188,Minted LLC,Y,Mitch Ferguson - Hayward,,250 Mbps,"1221 Broadway, 5th Floor  Oakland CA 94607",721,216.38.148.178,86/KRGN/576617//PT,"ben@minted.com, it-team@minted.com, mitch.ferguson@minted.com, matt.delacruz@minted.com",AR2
+2459,Stranger & Stranger Inc.,Y,,,50 Mbps,"517 Pacific Ave, Ground Floor  SF CA 94133",563,216.38.153.98,86/KQGN/596036//PT,stephanie@strangerandstranger.com,AR3
+1870,Avidbank,Y,,,100 Mbps,400 Emerson St  Palo Alto CA 94301,506,216.38.132.254,86/KQFN/589955//PT,sleen@avidbank.com,AR2
+2259,"ThreatStream, Inc.",Y,Andrea Dazols,,100 Mbps,2317 Broadway St 3rd FL  Redwood City CA 94063,,216.38.132.34,86/KQGN/587162//PT,"jarrad.chorney@threatstream.com, adazols@threatstream.com",AR2
+2441,"Reward Style, Inc",Y,Devon White,817-629-8486,100 Mbps,1810 Gateway Dr #200  San Mateo CA 94404,541,216.38.151.66,86/KQGN/595262//PT,"devon@varitektechnology.com, rob@varitektechnology.com",AR3
+2000,fiberIVY - 1 Post,Y,Joanna Roberts,,,1 Post Street  San Francisco CA 94104,,204.153.194.62 / 204.153.194.66,86/KRGN/574455//PT,support@fastmetrics.com,AR2
+1925,"fiberIVY - 1735 N First Street, San Jose",Y,Mark Bower (bldg electrician),925-301-6172,100 Mbps,1735 N 1st Street San Jose CA 95112,505,216.38.133.48,86/KRFN/575714//PT,"mbower.mcc@prodigy.net, stacyk@filice-accountancy.com",AR2
+2297,"Blueshift Labs, Inc",Y,Mehul Shah,,100 Mbps,231 Sansome St #300  SF CA 94104,1527,216.38.138.26,86/KQGN/601270//PT,"mehul@getblueshift.com, vijay@getblueshift.com",AR3
+2414,Callisto Media,Y,Matt Oesterle,,50 Mbps,918 Parker St #A-11 Berkeley CA 94710,538,216.38.155.206,86/KQGN/593923//PT,"moesterle@callistomedia.com, schiu@callistomedia.com",AR3
+2010,fiberIVY - 899 Adams,Y,,,250 Mbps,899 Adams St  St Helena CA 94574,643,216.38.150.186,86/KRGN/573703//PT,,AR2
+2567,"Social Finance, Inc",Y,Janet Bigley - See notes for additional authorized users,562-980-6554,250 Mbps,1 Letterman Dr Bldg A #4700  SF CA 94129,1537,173.195.78.254,86/KRGN/583516//PT,techpurchases@sofi.org,AR3
+2038,John McNeil Studio,Y,Brandon Kuchta,925-518-0372,200 Mbps,720 Channing Way  Berkeley CA 94704,673,204.153.194.38,86/KRGN/574761//PT,helpdesk@johnmcneilstudio.com,AR3
+2587,SnapLogic,Y,Jorge Reyes,415-336-2296,250 Mbps,1825 S Grant St 5th Floor  San Mateo CA 94402,733,216.38.156.230,86/KRGN/584020//PT,jreyes@snaplogic.com,AR2
+2421,"Danrick Commerce Group, LLC",Y,Danny Louie,510-853-3367,5 Mbps,5830 Las Positas Rd Livermore CA 94551  MPOE is 5860,543,216.38.133.186,86/KQGN/594555//PT,dan@dcgstores.com,AR3
+2502,"Newton Software, Inc",Y,Andy Chan,,100 Mbps,505 Montgomery St #2300  SF CA 94111,188,216.38.156.2,1X/KEFN/003008/LVLC,"andy@newtonsoftware.com, steve@newtonsoftware.com",AR2
+2066,Phoenix Real Estate Investment Corp.,Y,Murphy Deng,408-316-8855,30 Mbps,1202 Kifer Rd  Sunnyvale CA 94086,502,216.38.152.134,86.KQGN.587990.PT,murphydeng@phoenixreic.com,AR3
+2548,LT Security Inc,Y,Paul Feng,,50 Mbps,38507 Cherry St #G  Newark 94560,1528,216.38.130.78,86/KQGN/601467//PT,"paul.feng@ltsecurityinc.com, kevin.lin@ltsecurityinc.com",AR3
+2103,"Aerospike, Inc. (formerly citrusleaf)",Y,Stephan Wendl,,90 Mbps,2525 E Charleston Rd #201 Mountain View 94043,494,204.153.194.225,75L2XN000110-001PT,"michael@aerospike.com, DHockenberry@aerospike.com",AR1
+2561,Autonomic,Y,George Tuma,,500Mbps,"745 Emerson St, Palo Alto CA 94301",1512,173.195.79.98,86/KRGN/583348//PT,george@autonomic.ai,AR3
+2442,Quid,Y,Deryck Reed,831-239-3516,250 Mbps,600 Harrison St  4th FL   SF CA 94107,1169,216.38.151.74,1X/KFFN/002609/LVLC,dreed@quid.com,AR2
+1533,Eveo,Y,Tom Tully,415-717-8587,100 Mbps,1160 Battery St #275  SF CA 94111,701,216.38.133.126,86/KQGN/589021//PT,"ttully@eveo.com, cfaulkner@eveo.com, jnorwood@eveo.com, systems@eveo.com",AR2
+2431,"La Mar Cebicheria Peruana, Inc",Y,Joshua Haywood,714-600-1026,20 Mbps,Pier 1 1/2  SF CA 94111,546,216.38.151.82,86/KQGN/594952//PT,"jhaywood@selerum.com, thomasmedl@lamarcebicheria.com",AR3
+2137,Genesys Lab PO #17432,Y,Andrea.Friio@genesyslab.com,,250 Mbps,2001 Junipero Serra Blvd FL 7  Daly City 94014,625,216.38.138.246,86/KRGN/573156//PT,"accountspayable@genesyslab.com, bradc@genesyslab.com, Andrea.Friio@genesyslab.com",AR3
+2152,"Acer Cloud Technology (US), Inc., DE",Y,Mark Elam,408-221-2689,100 Mbps,800 W California Ave #200 Sunnyvale CA 94086,745,216.38.150.98,76 L2XN 000065-001PT,melam@igware.com; joyce@igware.com,AR1
+1986,"MemoryTen, Inc.",Y,Chuck Kim,408-910-9950,10 Mbps,2800 Bowers Ave  Santa Clara CA 95051,494,216.38.155.226,63L2XN000159-001PT,"ckim@memoryx.com, pgarcia@memoryten.com",AR1
+1872,Control4 Corporation,Y,Dean Zekas,801-652-0617,20 Mbps,2025 Gateway Pl #460  San Jose CA 95110,494,216.38.133.86,72 L2XN 000114-001PT,"dzekas@control4.com, jgrow@control4.com",AR1
+2162,fiberIVY - 101 Mission St - formerly 100 Spear St,Y,Joanna Roberts,,10 Mbps,100 Spear St  SF CA 94105,1212,216.38.155.230,63/KEFN/105135/TWCS,,AR1
+1879,"Havas Worldwide San Francisco, LLC  (Fmly Euro RSCG)",Y,Ali Bonakdar,818-404-3304,100 Mbps,1725 Montgomery St 3rd Fl  SF CA 94111,494,216.38.140.226,86/KRGN/579221//PT,"ali.bonakdar@havasww.com, APHavasSanFran@havasww.com, jim.lightner@havasww.com,jettie.taylor@havasww.com",AR2
+2134,Everlaw,Y,AJ Shankar,510-847-7548,400 Mbps,"2350 Shattuck Ave, Berkeley CA 94704  Floor 2 and  3",1515,216.38.132.202,86/KRGN/581731//PT,"aj@everlaw.com, joel@everlaw.com",AR3
+2111,Nexcom,Y,Donny Lee,510-789-8832,100 Mbps,"2883 Bayview Dr, Fremont CA 94538",517,216.38.148.198,86/KRGN/577449//PT,donny@nexcom.com,AR3
+2547,Skedulo Inc,Y,Matthew Fairhurst,,250 Mbps,325 Pacific Ave  SF CA 94111,732,216.38.151.18,86/KRGN/583087//PT,"mfairhurst@skedulo.com, cperez@skedulo.com, clopez@skedulo.com",AR3
+2393,Covenant Surgical Partners - CovenantSP CA806,Y,Cody Funderburg,615-651-5575,20 Mbps,"300 Utah Ave #150, South San Francisco CA 94080",519,216.38.133.70,86/KQGN/592225//PT,cf@covenantsp.com,AR3
+1971,Dakota Carrier Network,Y,Arlen Berger,415-518-9478,10 Mbps,999 5th St. #500 San Rafael CA 94901,,,86/KQGN/583790//PT,"bpfeifer@dakotacarrier.com, techsupport@dakotacarrier.com, Maintenance@dakotacarrier.com",
+2195,Nipun Capital LLC,Y,David Sargent,336-473-6019,100 Mbps,950 Tower Lane #1725  Foster City CA 94404,742,216.38.132.122,86/KQGN/604118//PT,linda.cheung@nipuncapital.com,AR3
+2171,Airport Home Appliance - PDC,Y,Ed Morey,,50 Mbps,3525 Arden Rd #100  Hayward CA 94545,405,216.38.133.118,89/L2XN/000211-001PT,"edmorey@ejmnetworks.com, alicia@airportappliance.com",AR1
+2206,Vault Management Inc.,Y,Micha Mokrani / Cesar Rodriguez,,250 Mbps,415 Jackson St #B  SF CA 94111,655,216.38.133.38,86/KRGN/574041//PT,"kevin@seed-change.com, kevin@thesfvault.com, jacob@thesfvault.com",AR2
+2218,"Serb Systems, Inc. dba ProMedia/Utlrasound, Inc.",Y,Geoff Peters,415-320-5330,100 Mbps,777 Arnold Dr  Martinez CA 94553,404,216.38.133.210,83/L2XN/000170 001/PT,geoff@promediaultrasound.com,AR1
+2157,Regents of the University of California  - UC Press,Y,Warren Cheung,5109178555,100 Mbps,155 Grand Ave  Oakland CA 94612,621,216.38.136.6,86/KQGN/581286//PT,"evanrijn@ucpress.edu, wcheung@ucpress.edu, mjensen@ucpress.edu",AR3
+2208,Soliant Consulting,Y,Sean Rios,650-477-0061,100 Mbps,888 Airport Blvd  Burlingame CA 94010,622,216.38.133.138,86/KQGN/581591//PT,srios@soliantconsulting.com,AR2
+2093,Canto,Y,Robert Welch - see notes for other authorized users,,100 Mbps,116 New Montgomery St #810  SF CA 94105,,216.38.137.237,63/KEFN/106994/TWCS,"rwelch@canto.com, hds@canto.com",AR3
+2575,Goldstone Management Inc.,Y,Paul Goldstone,650-793-1001,150mbps,82 Shattuck Square Berkeley CA 94704,747,173.195.77.130,86/KRGN/585399//PT,paul@goldstonemgmt.com,AR3
+2446,YouGov,Y,Joseph Stasiuk,510-415-1663,50 Mbps,650 5th St #505  SF CA 94107,547,216.38.156.222,86/KQGN/595549//PT,joseph.stasiuk@yougov.com,AR3
+2223,"SuperCloset, Inc",Y,Rory Kagan,415-577-5153,10 Mbps,3555 Airway Dr  Santa Rosa CA 95403,629,216.38.135.46,86/KQGN/581999//PT,rory@supercloset.com,AR2
+2237,IDEO.org,Y,Dave Zhou,6466394287,300 mbps,444 Spear St #213  SF CA 94105,357,216.38.155.194,1X/KFFN/003761//LVLC,"Dave@ideo.org, mtaylor@ideo.org, jnichols@unboundtechnology.com",AR3
+2259,"ThreatStream, Inc.",Y,Andrea Dazols,,100 Mbps,401 Warren St #200 Redwood City CA 94063,631,216.38.137.170,86/KQGN/582680//PT,"jarrad.chorney@threatstream.com, adazols@threatstream.com",AR2
+2457,"Beeline Group, LLC",Y,Kurt Harvey,510-579-8498,100 Mbps,"31023 Huntwod Ave, Hayward CA 94544",551,216.38.154.2,86/KQGN/595871//PT,kurt@beelinegroup.com,AR3
+2061,Litman Gregory Asset Management,Y,Doug Dooley,,100 Mbps,100 Larkspur Landing Cir #204  Larkspur CA,633,216.38.153.90,86/KQGN/582290//PT,"registrations@lgam.com, daquino@xantrion.com",AR3
+2064,fiberIVY - 4 Orinda,Y,Richard Segol,,250 Mbps,"4 Orinda Way, Orinda CA 94563",630,204.153.195.98,86/KRGN/573295//PT,,AR2
+2037,"Insitu, Inc   (formerly 2d3 Sensing)",Y,Christian McQuade,541-300-9493,100 Mbps,"2755 Campus Drive #175, San Mateo CA 94403",1508,216.38.156.210,86/KQGN/597234//PT,"christian.mcquade@insitu.com, ap_dept@insitu.com",AR3
+2621,"OQTON, Inc.",Y,Ben Schrauwen,925-238-6202,150mbps,"832 Sansome St, 4th Floor  SF CA 94111",750,216.38.155.254,86/KRGN/585443//PT,ben.schrquwen@oqton.com,AR3
+2257,2567 Mission St. LLC,Y,Grace Stanat,,50 Mbps,2567 Mission St  SF CA 94110,650,216.38.133.106,86/KQGN/582679//PT,"grace@415.com, byron@415.com, aaron@projector.com, neda@415.com",AR2
+2276,"UpGuard   formerly ScriptRock, Inc",Y,Mike Baukes,415-335-5811,500Mbps,"909 San Rafael Ave,Mountain View 94043",728,216.38.132.70,86/KRGN/583314//PT,corp-it@upguard.com,AR3
+2622,Tank Design,Y,Avi Levy,,50 Mbps,1050 Sansome St 2nd Floor  SF CA 94111,756,173.195.77.34,86/KQGN/605867//PT,"avi@tankdesign.com, charges@tankdesign.com",AR3
+1314,Picketfence Inc  dba Sandbox Studio,Y,Jake Jackson,718-541-7427(Jake mobile),250 Mbps,555 Minnesota St SF CA,659,216.38.155.210,86/KRGN/574297/PT,"jake.jackson@sandboxstudio.com, rob.treble@sandboxstudio.com, adam.ashworth@sandboxstudio.com, tony.larson@sandboxstudio.com",AR2
+2309,"Navdy, Inc",Y,Ali Rahimi,,250 Mbps,575 7th Street  SF CA 94103,729,216.38.132.90,86/KRGN580212//PT,"ali@navdy.com, alex@navdy.com, matt@ventura-tech.com, juan@ventura-tech.com",AR3
+1834,Lifestreet Corp (WebAMG Services Inc.),Y,Vagif Zeynalov,650-489-5552,100 Mbps,"981 Industrial Rd. Ste F, San Carlos CA 94070",494,216.38.132.30,86/KQGN/596678//PT,"yuriy.vidineev@revjet.com, all.ops@revjet.com, vagif.zeynalov@lifestreet.com, felix.soyferman@lifestreet.com, mike.soyferman@lifestreet.com",AR3
+1888,"Wafer Reclaim Services, LLC",Y,Lazaro Reyes,,100 Mbps,2240 Ringwood Ave  San Jose CA 95131,638,216.38.154.238,86/KQGN/583388//PT,Lazaro.reyes@wrsmaterials.com,AR2
+2249,"Orange Silicon Valley, Inc - Project #3139 - PO #011825",Y,Paul Galick,510-750-4456,1 gbps,60 Spear St #1100  SF CA 94105,364,216.38.149.82,1X/KFFN/003610//LVLC,"paul.galick@orange.com, orangesiliconvalley@gmail.com",AR3
+2311,Shazam Media Services Inc.,Y,NOC (United Kingdom),011-44-208-834-7488,250 Mbps,2114 Broadway St  RWC CA 94063,666,216.38.148.2,86/KRGN/574298//PT,"noc@shazam.com, itoperations@shazam.com, alan.kaste@shazam.com",AR2
+1471,Hugo Parker LLP,Y,Frank Petersen,415-425-5494,100 Mbps,1 Front St  26th Fl  SF CA 94111,1503,216.38.129.78,86/KQGN/597944//PT,"it@hugoparker.com, fpetersen@hugoparker.com, ssilvera@hugoparker.com",AR3
+2337,"hyperWALLET Systems, Inc",Y,Anthony Dack,778-828-1881,50 Mbps,575 Market St #3650  SF CA 94105,2129,216.38.152.242,63/KEFN/108101/TWCS,"rgeiger@hyperwallet.com, skathiresan@hyperwallet.com",AR2
+2334,Mediasmith,Y,Stanley Fukuda,,50 Mbps,"115 Sansome St 3rd Floor, SF CA 94104",674,216.38.132.166,86/KQGN/587651//PT,sfukuda@mediasmith.com,AR2
+2361,"Formagrid, Inc. dba Airtable",Y,Andrew Ofstad,,50 Mbps,49 Powell St 2nd Floor  SF CA 94102,659,216.38.151.62,86/KQGN/585238//PT,"andrew.ofstad@gmail.com, doug@airtable.com",AR2
+2349,Parker Media,Y,Thor Peterson,,1 gbps,"1 Letterman Dr, Bldg A 4th Floor,  SF CA 94129",1401,216.38.139.130,ETYX/113254//ZYO,"thor@parkermedia.com, katie@parkermedia.com",AR2
+2284,Clever Inc.,Y,Cortney Thorley,415-470-1116,100 Mbps,"1263 Mission St, SF CA 94103",705,216.38.133.146,86/KQGN/589067//PT,cortney.thorley@clever.com,AR2
+2188,Minted LLC,Y,Mitch Ferguson - Hayward,,100 Mbps,"21375 Cabot Blvd, Hayward CA 94545",706,216.38.135.54,86/KQGN/589869//PT,"ben@minted.com, it-team@minted.com, mitch.ferguson@minted.com, matt.delacruz@minted.com",AR2
+2331,Grow Marketing,Y,Rob Kageyama,510-325-6937,50 Mbps,"570 Pacific Ave, Floor 3  SF CA 94111",507,216.38.138.166,86/KQFN/590354//PT,admin@grow-marketing.com,AR3
+2345,"Netskope, Inc.",Y,Naiming Chu,,100 Mbps,"270 3rd St, Los Altos CA 94022",704,216.38.151.26,86/KQGN/588634//PT,naiming@netskope.com,AR2
+2372,"Verba, Inc",Y,Micah Buckley,,50 Mbps,"701 Sutter St, 6th Floor  SF CA 94109",710,216.38.148.138,86/KRGN/575973//PT,"jared.pearlman@verbasoftware.com, michael.ragalie@verbasoftware.com, support@verbasoftware.com",AR2
+1758,Trilliant Networks Inc,Y,Peter Blakely,,100 Mbps,1100 Island Dr  RWC CA 94065,709,216.38.155.166,86/KRGN/575707//PT,"Joanna.Rombouts@trilliantinc.com; itadmin@trilliantinc.com, Jonathan.Forand@trilliantinc.com,Peter.Blakely@trilliantinc.com",AR2
+2050,"Counsyl, Inc.",Y,Chris Gilmer,,200 Mbps,180 Kimball Way  South San Francisco CA  94080,711,216.38.156.102,86/KRGN/575708//PT,techops@counsyl.com,AR3
+1850,WPG Americas - San Jose,Y,Steve Mage,813-505-3078,50 Mbps,5285 Hellyer Ave #150  San Jose CA 95138,712,216.38.156.46,86/KQGN/590505//PT,"kevin.farrington@wpgamericas.com, steve.mage@wpgamericas.com",AR2
+2367,JDRF,Y,Marvin Atkins,,20 Mbps,49 Stevenson #1200  SF CA 94105,714,216.38.148.146,86/KRGN/575837//PT,"matkins@jdrf.org, aalim@jdrf.org",AR2
+1964,Wi-Fi Alliance,Y,Jeff Neigbor,,100 Mbps,"3408 Garrett Dr, Santa Clara CA 95051",713,216.38.148.130,86/KQGN/590116//PT,"GBibeau@terminalb.com, thoward@wi-fi.org",AR2
+2385,"Flextronics, Inc.",Y,Megan Columbus,415-349-9605,500Mbps,"120 8th Street, SF CA 94103",658,216.38.133.174,86/KRGN/573806//PT,"megan.columbus@flextronics.com, aaron.dolberg@flex.com",AR2
+2381,"SmartNews, Inc.",Y,Vincent Chang,415-312-7558,100 Mbps,144 2nd Street #200  SF CA 94105,715,216.38.148.190,86/KQGN/591162//PT,"vincent.chang@smartnews.com, dennis.moss@smartnews.com",AR2
+2348,"Matarozzi Pelsinger Builders, Inc.",Y,Greg Melkumyan,,100 Mbps,355 11th Street #200  SF CA 94103,515,216.38.155.190,86/KQFN/591128//PT,support@fixswift.com,AR3
+2366,Ongaro PC Law,Y,Mark Lau,415-760-6650,20 Mbps,50 California St #3325 SF CA 94111,356,216.38.156.134,1X/KEFN/000034/TWCS,mlau@nettechwest.com,AR2
+2613,The Pill Club,Y,Joseph Garcia,510-861-2183,300 mbps,969 Industrial Rd #G  San Carlos CA 94070,,104.7.66.175,3545609135,joseph@thepillclub.com,AT&T Uverse
+2364,ROI-DNA,Y,Michelle Harburn,,150mbps,"333 Bryant St, #LL120, SF CA 94107",720,216.38.156.94,86/KQGN/589966//PT,michelle@roidna.com,AR2
+2369,"Collectively, Inc",Y,Scott Runcorn,,50 Mbps,158 11th Street  SF CA 94103,719,216.38.155.62,86/KQGN/590703//PT,"eviltron@eviltron.com, shylene@collectivelyinc.com",AR2
+2341,Avidbank SF,Y,,,20 Mbps,135 Main St #1145  SF CA 94105 - part of 135 Main fiberIVY,510,216.38.138.210,86/KRFN/575833//PT,sleen@avidbank.com,AR3
+2343,Avidbank San Jose,Y,,,100 Mbps,50 W San Fernando #850  San Jose CA 95113,511,216.38.148.98,86/KQFN/590682//PT,sleen@avidbank.com,AR3
+2539,Atrium Risk Management Services,Y,Atrium IT Ops,011 44 7970 743 522,300 mbps,1 Sansome St #2060  SF CA 94104,365,216.38.138.10,1X/KFFN/003442/LVLC,itmonitoring@atrium-uw.com,AR3
+2085,NTROPIC LLC,Y,Nadia Patel,415-756-4884,500Mbps,"1025 Battery St, SF CA 94111",644,216.38.132.62,86/KRGN/573827//PT,"nadia@ntropic.com, nate@ntropic.com",AR3
+2074,Cpacket Networks,Y,Kerry Tanaka,408-396-8397,100 Mbps,"765 Ravendale, Mountain View CA 94043",645,216.38.156.62,86/KQGN/584024//PT,"kerry@cpacket.com, support@cpacket.com",AR2
+2487,"Anatomage, Inc",Y,Quang Nguyen,408-688-4467,100 Mbps,"303 Almaden 7th Floor, San Jose CA 95110",0,216.38.157.154,86/KQGN/597517//PT,quang.nguyen@anatomage.com,AR3
+1994,Friedman McCubbin Law Group LLP,Y,Jonathan Curl,,100 Mbps,425 California St  25th Floor  SF CA 94103,524,216.38.153.102,86/KQGN/593921//PT,"joncurl@aplan.org, george@fomlaw.com",AR3
+2298,"Imgur, LLC",Y,Stephanie Polizzi,510-414-6788,250 Mbps,415 Jackson St 3rd Floor  SF CA 94111,,216.38.156.130,86/KRGN/574041//PT,it@imgur.com,AR2
+2400,Landtech Consultants,Y,Kamal Obeid,510-684-6154,5 Mbps,3845 Beacon Ave #D  Fremont CA 94538,526,216.38.132.98,86/KQGN/593023//PT,ksobeid@landtech.com,AR3
+2092,San Francisco County Transportation Authority,Y,Joe Castiglione,,50 Mbps,1455 Market St 22nd Floor  SF CA 94103,529,216.38.133.22,86/KQGN/593305//PT,"joe.castiglione@sfcta.org, tim.beal@blackbox.com",AR3
+2427,"Stella Technology, Inc",Y,Mary Valdez,,20 Mbps,6203 San Ignacio Ave #100  San Jose CA 95119,531,216.38.155.2,86/KQGN/594612//PT,molson@stellatechnology.com,AR3
+2420,"Searchmetrics, Inc",Y,Tanner Wilkin,650-773-6437,50 Mbps,1100 Park Place #110  San Mateo CA 94403,533,216.38.138.170,86/KQGN/594246//PT,"t.wilkin@searchmetrics.com, it.management@searchmetrics.com, h.scheidt@searchmetrics.com, g.kegel@searchmetrics.com",AR3
+2432,Montbleau & Associates,Y,Mike Bristow,619-606-2148,20 Mbps,2078 Zanker Rd  San Jose CA 95131,539,216.38.156.202,86/KQGN/594740//PT,"mike@montbleau.com, tara@montbleau.com",AR3
+2440,"Axis Construction, Inc",Y,Charlie Harris,925-350-1550,100 Mbps,2566 Barrington Ct  Hayward CA 94545,540,216.38.151.94,86/KQGN/595245//PT,charlie@axisconsults.com,AR3
+2434,3Scan,Y,Gerald Spencer,408-623-9456,250 Mbps,2122 Bryant St  SF CA 94110,542,216.38.154.222,86/KRGN/579410//PT,"gerald@3scan.com, matt@3scan.com, Jacob@3scan.com, techops@3scan.com",AR3
+2097,"Artium Technologies, Inc.",Y,Gregory Payne,509-430-0281,20 Mbps,470 Lakeside Dr. Unit C  Sunnyvale CA 94085,548,216.38.149.166,86/KQGN/595751//PT,gpayne@artium.com,AR3
+2425,Lolli and Pops,Y,Sivaram Dharmaraj,,500Mbps,71 Powell St  SF CA 94102,545,216.38.151.70,86/KRGN/579245//PT,"sivaramd@lolliandpops.com, support@lolliandpops.com",AR2
+2228,Social Imprints,Y,Kevin McCracken,415-846-7837,50 Mbps,969 Folsom St  SF CA 94107,536,216.38.155.122,86/KQGN/593922//PT,"kevin@socialimprints.com, jeff@socialimprints.com",AR3
+1756,CONSULATE GENERAL OF SWITZERLAND,Y,Michel Guex,310-699-6187,100 Mbps,Pier 17  SF CA 94111,550,216.38.154.194,86/KRGN/579393//PT,"manuela.stettler@eda.admin.ch, Michel.guex@eda.admin.ch, sacha.steiner@eda.admin.ch",AR3
+2429,"Striim dba WebAction, Inc.",Y,Jonathan Geraci,212-203-9699,50 Mbps,575 Middlefield Rd  Palo Alto CA 94301,549,216.38.151.86,86/KQGN/594780//PT,"jonathan@striim.com, sakbay@striim.com",AR3
+2448,Redwood Pulmonary Medical Associates,Y,Ed Fuller,800-738-4989,10 Mbps,"170 Alameda de las Pulgas, Ground Floor  RWC 94062",552,216.38.132.26,86/KQGN/595766//PT,"edfuller@precision-network.com, mina@redwoodpulmonary.net",AR3
+2437,Acalvio Technologies,Y,Nat D. Natraj (CEO),510-579-8785,50 Mbps,2520 Mission College Blvd  Santa Clara CA 95054,544,216.38.151.78,86/KQGN/594902//PT,"nat@acalvio.com, charles@acalvio.com",AR3
+2433,Golden Gate Urgent Care,Y,Greg Melkumyan,,50 Mbps,199 West Portal Ave  SF CA 94127,553,216.38.138.106,86/KQGN/594899//PT,lee@goldengateurgentcare.com,AR3
+2451,ProtoCafe,Y,Alex Madrigal,,50 Mbps,8445 Central Ave  Newark CA 94560,554,216.38.156.50,86/KQGN/595608//PT,"alex.madrigal@protocafe.com,phillip.trinidad@protocafe.com",AR3
+2480,Switzerland Tourism,Y,Thomas Jenni,,100 Mbps,Pier 17 Suite 600  SF CA 94111,550,216.38.154.194,86/KRGN/579393//PT,,AR3
+2469,Launchpad Digital Health - Ground Zero,Y,"Brooks Baskin - Installation IT (this is the builder, then they will turn over to Lauch pad)",650-208-9635,100 Mbps,1275 Mission St  SF CA 94103,560,216.38.148.234,86/KQGN/596442//PT,dan@launchpdh.com,AR2
+2482,"Audentes Therapeutics, Inc(Gtwy)- PO#160623-PG-02-Rev00",Y,Tony Jett,,100 Mbps,"201 Gateway Blvd FL2, SSF 94080",558,216.38.133.182,86/KQGN/597128//PT,"tony@24hourtek.com, craig@24hourtek.com",AR3
+2455,"Audentes Therapeutics, Inc  PO#170504-ST-1",Y,Tony Jett,,100 Mbps,"528 B Eccles St, SSF CA 94080",561,216.38.151.22,86/KQGN/598130//PT,"tony@24hourtek.com, pguzman@audentestx.com",AR3
+2582,SimilarWeb LTD,Y,Aviv Malka,,50 Mbps,250 Montgomery St #1600  SF CA 94104,368,216.38.151.242,1X/KEFN/003826/LVLC,aviv.malka@similarweb.com,AR3
+2493,Canaan Partners,Y,Eddie Rocha,408-393-6255,100 Mbps,2765 Sand Hill Rd  Menlo Park CA 94025,566,216.38.157.206,86/KQGN/597725//PT,erocha@coretelligent.com,AR3
+2477,Congregation Beth Am,Y,Hiro Takahashi,,20 Mbps,26790 Arastradero Rd  Los Altos Hills CA 94022,565,216.38.152.50,86/KQGN/596996//PT,"hiro@networkresource.com, stephen.m.lazarus.c69@alumni.upenn.edu, rachel_tasch@betham.org",AR3
+2478,StreetLight Data,Y,Thor Bach,510-551-7714,100 Mbps,135 Stillman St  SF CA 94107,568,216.38.156.218,86/KQGN/596882//PT,"thor.bach@streetlightdata.com, paul.friedman@streetlightdata.com, matt.orfuss@streetlightdata.com",AR3
+2322,Campaign Monitor USA Inc,Y,Tynan,,100 Mbps,631 Howard St  SF CA 94105,1501,204.153.194.210,86/KQGN/598058//PT,"grace@campaignmonitor.com, tynany@campaingmonitor.com",AR2
+2476,Granada School,Y,Nisar Akhtar,650-346-5409,50 Mbps,3003 Scott Blvd  Santa Clara CA 95054,1502,216.38.135.38,86/KQGN/596786//PT,"nisar@multi-scope.com, lianj@granadaschool.org",AR3
+2505,"NUS America, Inc",Y,Voon Yim Choo,650-799-7441,100 Mbps,164 S Park St SF CA 94107,646,216.38.155.218,86/KQGN/583650//PT,voonyim.choo@nus.edu.sg,AR2
+2471,Commonwealth Networks,Y,Mark Jen,,1 gbps,"2317 Central Ave, Alameda CA 94501",1505,216.38.140.198,86/KRGN/580203//PT,"m@common.net, j@common.net",AR3
+2443,Barry S Slatt Mortgage Company - Los Angeles,Y,Michael Dayoan,650-477-6476,50 Mbps,11111 Santa Monica Blvd #350  LA CA 90025,,157.130.224.138,u333980,"michaeld@slatt.com, danield@slatt.com",Verizon
+2357,The Rare Wine Co,Y,Cory Wright,917-543-4997,20 Mbps,"280 Valley Dr, Brisbane CA 94005",708,216.38.152.202,86/KQGN/589672//PT,jcwright@rarewineco.com,AR2
+1320,The Seven Hills School,Y,Renee Ramig  (rramig@sevenhillsschool.org),Sargon 925-933-0666 x4973 or (renee cell) 925 980 1399,250 Mbps,"975 N San Carlos Dr, Walnut Creek CA 94598",514,216.38.155.54,86/KRFN/576004/PT,"rramig@sevenhillsschool.org, mchamberlain@sevenhillsschool.org, kt@sevenhillsschool.org",AR6
+2149,"Z Collection, Inc.",Y,Joshua Conner,256-499-2238,100 Mbps,"211 Jefferson St, SF CA 94133",508,216.38.156.42,86/KQFN/590376/PT,"droth@zcollectionsf.com, joshc@zcollectionsf.com",AR3
+2149,"Z Collection, Inc.",Y,Joshua Conner,256-499-2238,20 Mbps,250 Beach St SF CA 94133,512,216.38 .154.14,86/KQFN/590798/PT,"droth@zcollectionsf.com, joshc@zcollectionsf.com",AR3
+1957,Streetline,Y,Kelvin Wong,,50 Mbps,1200 Park Place #150  San Mateo CA 94403,707,216.38.152.102,86/KQGN/590481//PT,"annam@streetlinenetworks.com, scott@globalizenetworks.com",AR2
+2346,Laird Technologies,Y,George Panackal,224-600-6484,100 Mbps,595 Yosemite Dr  Milpitas CA 95035,722,216.38.132.186,86/KQGN/591092//PT,george.panackal@lairdtech.com,AR2
+2373,"High Fidelity, Inc.",Y,Stephen Birarda,,250 Mbps,"1065 Folsom St, SF CA 94103",723,216.38.152.22,86/KQGN/590871//PT,birarda@highfidelity.io,AR2
+2396,"ProctorU, Inc",Y,Scott Boyd,,200 Mbps,3083 Independence Dr #A  Livermore CA 94551,725,204.153.194.214,86/KRGN/577863//PT,sboyd@proctoru.com,AR3
+2404,"Terris, Barnes & Walters",Y,William Jensen,813-830-8908,100 Mbps,400 Montgomery St 7th Floor  SF CA 94104,525,204.153.194.74,86/KQGN/593306//PT,wjensen@tbwmedia.com,AR3
+2460,"Regent Financial & Insurance Services, LLC",Y,Troy Vu,408-204-2192,10 Mbps,577 Selmar Ave  Campbell CA 95008,559,216.38.137.202,86/KQGN/595967//PT,"troyvu@yahoo.com, jared@regentwm.com",AR3
+2061,Litman Gregory Asset Management,Y,Doug Dooley,,100 Mbps,1676 N California Blvd #500  Walnut Creek CA 94596,633,216.38.150.196,86/KRGN/580900//PT,"registrations@lgam.com, daquino@xantrion.com",AR3
+2486,"Nylas, Inc",Y,Margaret Karl,,100 Mbps,698 Minna St  SF CA 94103,1507,216.38.147.30,86/KQGN/597531//PT,margaret@nylas.com,AR3
+2511,"Cannon Constructors North, Inc.",Y,Evans Jones - Jones IT,,100 Mbps,"6000 Shoreline Ct #206, SSF CA 94080",1510,216.38.156.86,86/KRGN/581906//PT,"accounts@itjones.com, kschafer@cannongroup.com",AR3
+2468,"Motif Investing, Inc",Y,Stephan Sochoux,,250 Mbps,"2 E Third Ave, San Mateo CA 94401",1511,216.38.132.54,86/KRGN/580073//PT,stephan@motif.com,AR3
+2481,The Contemporary Jewish Museum,Y,,,100 Mbps,736 Mission St SF CA 94105,564,216.38.129.154,86/KQGN/597185//PT,"jhayes@thecjm.org, kking@thecjm.org",AR3
+2528,"Alooma, Inc.",Y,Yair Weinberger,,100 Mbps,2114 Broadway St  RWC 94063,1533,216.38.140.30,86/KQGN/601054//PT,"yair@alooma.com, noa@alooma.com",AR3
+2527,"Instamotor, Inc.",Y,Sy Bohy,,100 Mbps,650 5th St #402  SF CA 94107,1516,216.38.140.22,86/KQGN/600485//PT,"sy@instamotor.com, jill@instamotor.com",AR3
+2534,Better World Advertising,Y,Manny Sanchez,,50 Mbps,655 Commercial St  SF CA 94111,1521,216.38.152.162,86/KQGN/600713//PT,mannys@socialmarketing.com,AR3
+1880,"Tokbox, Inc.",Y,TB Ops Dept,415-828-4432,1 gbps,501 2nd St #310  SF CA 94107,,216.38.135.62,1X/KFFN/003376/LVLC,"ops@tokbox.com, jwade@tokbox.com, ari@tokbox.com",AR2
+2554,IATAI Enterprises,Y,Luis Eduardo Tobian,,100 Mbps,"535 Mission St, FL 27, SF CA 94105",1530,173.195.79.106,86/KQGN/601704//PT,"ltobian@iatai.com, rsuansing@iatai.com",AR3
+2302,"Qadium, Inc",Y,Justin Black,619-808-5371,250 Mbps,"85 2nd St 8th Floor, SF CA 94105",1529,173.195.79.22,86/KRGN/583279//PT,"justin.black@qadium.com, ops@qadium.com",AR3
+2472,ixonos,Y,Alberto Delgado Ballester,+14152182020,100 Mbps,85 2nd St #125  SF CA 94105,1529,216.38.132.234,86/KRGN/583279//PT,alberto.delgado@ixonos.com,AR3
+2470,"Rollbar, Inc",Y,Brian Rue,,50 Mbps,51 Federal St #401  SF CA 94107,1535,216.38.157.94,86/KQGN/602064//PT,"brian@rollbar.com, cory@rollbar.com, ken@rollbar.com, jay@rollbar.com",AR3
+2221,"Oakstop, LLC",Y,Trevor Parham,510-219-2295,100 Mbps,1721 Broadway St #201  Oakland CA 94612,749,173.195.77.182,86/KQGN/604633//PT,"trevor@oakstop.com, jason@fixswift.com",AR3
+2520,Thalmic Labs Inc,Y,Stephen Palmateer,519-500-7929,100 Mbps,2530 3rd St  SF CA 94107,1536,173.195.78.242,86/KQGN/600019//PT,"it@thalmic.com, stephen.palmateer@thalmic.com",AR3
+2517,"Compass, Inc.",Y,Randy Pero,502-544-1435,100 Mbps,"1934 Union St, SF CA 94123",1517,216.38.136.254,86/KQGN/599812//PT,"zach.mccartney@compass.com, lauren.jones@compass.com, paul.parker@compass.com",AR3
+2543,"MongoDB, Inc.",Y,Cody Goodermote,,1 gbps,100 Forest Ave  Palo Alto CA 94301,1600,173.195.79.106,86/KRGN/582948//PT,cody@mongodb.com,AR3
+2560,"Checkr, Inc.",Y,Jones IT - Evan Jones et al,415-578-7111,1 gbps,"120 Kearny St, 20th FL  SF CA 94108",0363,216.38.140.2,1X/KFFN/003571//LVLC,"accounts@itjones.com, edwin@checkr.com",AR3
+2571,"GP Bullhound, Inc.",Y,Dave Nish,,100 Mbps,1 Maritime Plaza #1620  SF CA 94111,367,216.38.155.202,1X/KEFN/003703/LVLC,"dave.nish@gpbullhound.com, nataly.bean@gpbulhound.com",AR3
+2580,California Lutheran University,Y,Zareh Marselian,,250 Mbps,2000 Center St  Berkeley CA 94704,1539,216.38.156.146,86/KRGN/583831//PT,marselian@clu.edu,AR3
+2214,"Nanosyn, Inc",Y,Darren Liu,510-386-2794,10 Mbps,3100 Central Expwy  Santa Clara CA 95051,623,216.38.152.46,86/KQGN/602899//PT,dliu@nanosyn.com,AR2
+2234,Open Gate Sangha,Y,Jerilyn Munyon,831-246-1989,50 Mbps,"1299 Del Mar Ave, San Jose CA 95128",1538,216.38.156.214,86/KQGN/602649//PT,"jerilyn@adyashanti.org, jim@adyashanti.org",AR3
+1992,ETS Laboratories,Y,Jim Welsh,707-975-4534,50 Mbps,"190 Foss Creek Circle, Healdsburg CA 95448",516,216.38.156.154,86KRGN573703PT,"JWelsh@etslabs.com, IT@etslabs.com",AR3
+2116,"Check Point Software Technologies, Inc. PO#4100071312",Y,Toney Choi,650-454-4892,100 Mbps,959 Skyway Rd #300 San Carlos CA 94070,523,216.38.132.6,86/KQGN/592411//PT,hchoi@checkpoint.com,AR3
+2415,"Dynamic Signal, Inc.",Y,Pratik kathiriya,732-983-2038,250 Mbps,1111 Bayhill Dr #125  San Bruno CA 94066,528,216.38.140.46,86/KRGN/578973//PT,ptse@dynamicsignal.com,AR3
+1993,Handel Architects,Y,Warren Tabada,,1 gbps,735 Market St 2nd Floor  SF CA 94103,657,216.38.155.66,86/KRGN/583758//PT,"malbanese@handelarchitects.com, warren@tabada.com, bchen@handelarchitects.com",AR2
+2563,Food Service Partners,Y,Jeremy Kaikko - Joseph Wilk   MAINSPRING,240-271-8125,20 Mbps,528-A Eccles Ave #200  SSF CA 94080,731,216.38.151.246,86/KQGN/602647//PT,"jkaikko@gomainspring.com, mharris@fsp98.com",AR3
+2591,University of San Francisco,Y,Jason Rossi,,500Mbps,1330 14th Ave  SF CA 94122,739,173.195.77.110,86/KRGN/584745//PT,rossi@usfca.edu,AR3
+2599,"Fyusion, Inc.",Y,Nick Stetco,650-823-2410,1 gbps,365 Vermont St  SF CA 94103,738,173.195.77.114,86/KRGN/584610//PT,nstetco@fyusion.com,AR3
+2546,Forbes Media LLC,Y,Rodney Rodriguez,,250 Mbps,"101 Mission St, 12th Floor SF CA 94105",,,251436658,"rrodriguez@forbes.com, bphil@forbes.com",Do Not Monitor
+2600,Totango Inc,Y,Val Lapidus,646-823-3438,50 Mbps,"1200 Park Place #200, San Mateo CA 94403",,104.7.66.92,252-552-101,val@totango.com,AT&T Uverse
+2604,"LightStep, Inc.",Y,Earl Pagaduan,,250 Mbps,703 Market St 15th Fl  SF CA 94103,743,204.153.194.46,86/KRGN/584717//PT,support@itjones.com,AR3
+2575,Goldstone Management Inc.,Y,Paul Goldstone,650-793-1001,10 Mbps,100 Roblar Dr  Novato CA 94949,748,173.195.77.190,86/KQGN/604632//PT,paul@goldstonemgmt.com,AR3
+2399,"Nano Magnetics, Inc",Y,Jeff Kang,,50 Mbps,2390 Owen St  Santa Clara CA 95054,752,216.38.142.146,86/KQGN/605666//PT,dora@nanomagnetics.com,AR3
+2603,Scale API,Y,Shrav Mehta,,150mbps,1500 Harrison St 3rd Floor  SF CA 94103,751,216.38.133.30,86/KRGN/584721//PT,shrav@scaleapi.com,AR3
+2609,"Insight Engines, Inc",Y,Victor Clark,415-955-1390,50 Mbps,605 Market St  13th Floor  SF CA 94105,530,173.195.77.158,86/KRGN/585375//PT,victor@insightengines.com,AR3
+2151,Mondo International LLC,Y,Jason Nieves,,100 Mbps,250 Montgomery St #610  SF CA 94104,375,173.195.77.150,1X/KEFN/004195/LVLC,mondo-it@mondo.com,AR3
+2023,Index Venture Management  (RLS),Y,Daniel O'Hanlon,,1 gbps,139 Townsend St  #500  SF CA 94109,754,216.38.134.34,86/KRGN/585355//PT,"ann@mccabetotah.com; sharon@mccabetotah.com, joy@indexventures.com, Daniel@indexventures.com",AR3
+2618,"Walker Warner Architects, Inc.",Y,David Barta,323-422-7984,150mbps,353 Folsom St  SF CA 94105,755,216.38.134.38,86/KRGN/585418//PT,barta@walkerwarner.com,AR3
+2614,"Plageman, Lund & Cannon LLP",Y,Chris Curtola - Riser Manager,707-974-0679,50 Mbps,"1 Kaiser Plaza #1440, Oakland CA 94612",,75.36.2.70,3561082100,lgacayan@plagemanlund.com,AT&T Uverse
+2415,"Dynamic Signal, Inc.",Y,Pratik kathiriya,732-983-2038,250 Mbps,851 Traeger Ave #200  San Bruno CA 94066,570,173.195.77.30,86/KRGN/585548//PT,ptse@dynamicsignal.com,AR3
+2624,Contentful Inc.,Y,Erik Dahms,011 49-171-276-0243,250 Mbps,150 Spear St #1350  SF CA 94105,757,173.195.77.26,86/KRGN/585676//PT,erik@contentful.com,AR3
+2628,"Bolt, Inc.",Y,Tiffany Frenkiel,,250 Mbps,374 Harriet St  SF CA 94103,758,173.195.76.198,86/KRGN/585771//PT,tiffany@bolt.io,AR3
+2488,Blue Chip Tek,Y,Slawek Balcerzak,972-762-0937,100 Mbps,3030 Olcott St  Santa Clara CA 95054,1500,216.38.137.206,86/KQGN/597520//PT,"sbalcerzak@bluechiptek.com, jtaclas@bluechiptek.com",AR2
+2545,"Smith Health, Inc.",Y,David Moran,317-652-9106,250 Mbps,300 Brannan #601  SF CA 94107,664,216.38.147.194,86/KRGN/574127//PT,david.moran@smithrx.com,AR2
+2540,"CyberAgent America, Inc",Y,Ken Takao,,100 Mbps,466 Geary St #100  SF CA 94102,1524,216.38.154.62,86/KQGN/601031//PT,"takao_ken@cyberagent.co.jp, kanri@cyberagentamerica.com",AR3
+2532,Dunham Associates,Y,Michael Park,408-234-6399,50 Mbps,1884 The Alameda  SJ CA 95126,1531,216.38.147.218,86/KQGN/600659//PT,mike@dunhamcpas.com,AR3
+2542,"Thrasys, Inc.",Y,Will Pizzano,510-761-5794,250 Mbps,"250 Executive Park Bl #2000,  SF CA 94134",1532,216.38.132.194,86/KRGN/582900//PT,"will.pizzano@thrasys.com, shiraz.adil@thrasys.com",AR3
+2521,"Magoosh, Inc",Y,Bhavin Parikh,703-888-6392,100 Mbps,2020 Milvia St #220 Berkeley CA 94704,672,216.38.132.190,86/KRGN/574775//PT,"bhavin@magoosh.com, amrita@magoosh.com",AR2
+2300,"Schox, PLC",Y,Kate Schox,,100 Mbps,500 Third St #215  SF CA 94107,360,216.38.155.186,1X/KEFN/003188/LVLC,kate@schox.com,AR2
+2526,"Humanity.com, Inc",Y,John Donily,,50 Mbps,50 Osgood Place #330  SF CA 94133,522,216.38.135.234,86/KQGN/592888//PT,john.donily@humanity.com,AR3
+2496,kaseya,Y,Dan Lowry,,100 Mbps,2033 Gateway Place #512  San Jose CA 95110,1514,216.38.137.198,86/KQGN/588732//PT,dan.lowry@kaseya.com,AR3
+2512,"Rokid, Inc.",Y,Yi (Frank) Rao,,100 Mbps,"1010 Commercial St, San Carlos CA 94070",1518,216.38.136.250,86/KQGN/599447//PT,raoy@rokid.com,AR3
+2523,"Authentic8, Inc.",Y,Brydon Raethel,+1 (650) 564-4526,100 Mbps,"201 San Antonio Cir #245, Mountain View CA 94040",1519,216.38.136.230,86/KQGN/600150//PT,"brydon@authentic8.com, ldunston@authentic8.com",AR3
+2524,Lumo Bodytech Inc,Y,Dave Woods,,50 Mbps,"201 San Antonio Circle #135, Mountain View CA 94040",1519,216.38.136.226,86/KQGN/600150//PT,"dave@lumobodytech.com, tammy@lumobodytech.com, admin@lumobodytech.com",AR3
+2531,China Live,Y,Jeff Slay,,250 Mbps,644 Broadway  SF CA 94133,1522,216.38.132.94,86/KRGN/582558//PT,patg@datumtechnologies.com,AR3
+2533,Click Diagnostics,Y,Taylor Stilwell,,50 Mbps,625 River Oaks Pkwy  SJ CA 95134,1523,216.38.152.194,86/KQGN/600676//PT,brian.maenpaa@clickdx.com,AR3
+2462,"Strategic Decisions Group International, LLC",Y,William Leon,415-350-3398,100 Mbps,951 Mariners Island Blvd #400  San Mateo CA 94404,1526,216.38.147.222,86/KQGN/601692//PT,"wleon@sdg.com, ngruenberg@appliedstrategies.com",AR3
+2522,"Calibear, Inc.",Y,Andy Xin,408-476-1101,100 Mbps,"1336 S Mary Ave, Sunnyvale CA 94087",1530,173.195.79.30,86/KQGN/600089//PT,acuxin@icloud.com,AR3
+2098,True Partners Consulting,Y,Gerald Liebhardt,312-519-6481,100 Mbps,"2055 Gateway Blvd #140, San Jose CA 95110",,104.10.251.231,250008839,gerald.liebhardt@tpctax.com,AT&T Uverse
+2570,Yorozu Law Group,Y,Sam Suttle,510-282-8973,20 Mbps,235 Montgomery St #300  SF CA 94104,366,216.38.152.254,1X/KEFN/003670/LVLC,samuel.suttle@yorozulaw.com,AR3
+2577,"BrightFunnel, Inc.",Y,Chris Hope of Kinetix Technology Services,650-454-8850,100 Mbps,222 Sutter St  4th Floor  SF CA 94108,1402,216.38.148.230,ETYX/113275//ZYO,chris@kinetix.com,AR2
+2231,"Thumbtack, Inc",Y,Ryan Garner-Carpenter,415-323-4626,100 Mbps,1355 Market St #600  SF CA 94103,1540,216.38.152.158,86/KQGN/602908//PT,"it@thumbtack.com, rlgc@thumbtack.com, dartanian@thumbtack.com",AR3
+2568,"Audentes Therapeutics, Inc  -  550 Eccles Unit 3",Y,Pablo Guzman  -  onsite,,100 Mbps,550 Eccles #3 SSF CA 94080,1542,216.38.138.138,86/KQGN/602406//PT,"tony@24hourtek.com, craig@24hourtek.com",AR3
+2559,"Kettle Solutions, LLC",Y,Michael Weintraub,,100 Mbps,3178 17th St #4  SF CA 94110,1541,216.38.154.26,86/KQGN/601814//PT,amy.johnson@kettlenyc.com,AR3
+2196,BlackStone Discovery,Y,Danny Cheun,408-890-9200,100 Mbps,2656 East Bayshore Rd  Palo Alto CA 943034,1543,216.38.129.90,86/KQGN/602648//PT,"dc@blackstonediscovery.com, jkelly@blackstonediscovery.com",AR3
+2546,Forbes Media LLC,Y,Rodney Rodriguez,,500Mbps,101 Mission St 12th Fl  SF CA 94105,362,173.195.78.246,1X/KFFN/003445/LVLC,"rrodriguez@forbes.com, bphil@forbes.com",AR2
+2581,Protagonist,Y,Evan Jones,,300 mbps,444 Spear St #210  SF CA 94105,369,216.38.140.18,1XKFFN/003915/LVLC,"evan@itjones.com, cpelletier@protagonist.io",AR2
+2594,"Redaptive, Inc",Y,Brad Degnan,415-518-7945,100 Mbps,340 Brannan St #400  SF CA 94107,371,216.38.148.170,1X/KEFN/003963/LVLC,brad.degnan@redaptiveinc.com,AR3
+2586,Roku,Y,Oscar Cuevas,408-512-3904,250 Mbps,2450 Colorado AVe #270  Santa Monica CA 90404,401,4.7.100.38,AI/KFFN/002236/LVLC,ocuevas@roku.com,Century Link
+2354,Typical Set LLC,Y,Aloke Prabhakar,,250 Mbps,"2170 Dwight Way, Berkeley CA 94704",718,216.38.148174,86/KRGN/583611//PT,"aloke@voleon.com, scott@voleon.com, tom@voleon.com",AR3
+2584,Lanetix,Y,Troy Goode,571-228-3890,100 Mbps,575 Sutter St  FL 3  SF CA 94102,735,173.195.78.110,86/KqGN/603277//PT,troy.goode@lanetix.com,AR3
+2461,Belgian American Chamber of Commerce,Y,Bieke Claes,,50 Mbps,620 Davis St #143  SF CA 94111,736,173.195.78.122,86/KQGN/603561//PT,bieke.claes@belcham.org,AR3
+2597,"Wickr, Inc.",Y,Mike Panacciulli,,100 Mbps,20 California St #250  SF CA 94111,737,173.195.77.126,86/KQGN/604170//PT,mike@wickr.com,AR3
+2589,Intercom,Y,Lucas Cantor,610-202-9708,500Mbps,55 2nd St 4th Fl  SF CA 94105,372,173.195.77.122,1X/KFFN/003884/LVLC,lucas@intercom.io,AR3
+2518,Sandbox Suites,Y,Roman Gelfer,,150mbps,1900 Addison #200 Berkeley CA 94704,1513,216.38.132.182,86/KRGN/584348//PT,roman@sandboxsuites.com,AR3
+2583,Hack Reactor,Y,Ian Winsemius,,100 Mbps,"944 Market St, 8th Fl, SF CA 94102",740,216.38.156.206,86/KQGN/603276//PT,Ian.Winsemius@hackreactor.com,AR3
+2595,"Avatar Integrated Systems, Inc.",Y,Tom Gee,510 813-1357,100 Mbps,2111 Tasman Dr  Santa Clara CA 95054,741,216.38.157.122,86/KQGN/603957//PT,tomg@avatar-da.com,AR3
+2198,Godfrey Dadich and Partners,Y,Josh Perlman,415-684-1191 - cannot text,100 Mbps,140 New Montgomery 17th FL  SF CA 94105,373,216.38.148.238,1X/KEFN/003885/LVLC,"jperlman@mann.com, dante@godfreydadich.com",AR3
+2189,The Bridgespan Group,Y,Bill Troegner,8083835015,300 mbps,88 Kearny 2nd Floor   SF CA 94108,374,173.195.77.146,1X/KGFN/002821/LVLC,"bill.troegner@bain.com, charles.lee@bridgespan.org, christina.araujo@bain.com",AR3
+2619,"Birdies, Inc",Y,Bianca Gates,,50 Mbps,1934 Union St  SF CA 94123,1517,216.38.133.254,86/KQGN/599812//PT,bianca@birdiesslippers.com,AR3
+2612,Captain401 Inc,Y,Paul Sawaya,,100 Mbps,300 Montgomery St #300  SF CA 94104,,104.56.112.144,BAN: 253-483603,officeit@captain401.com,AT&T Uverse
+2592,"DM Karting, Inc.",Y,Kevin Hermansader,,100 Mbps,205 Camino Alto #105  Mill Valley CA 94941,746,173.195.77.82,86/KQGN/604805//PT,kevin@infinityvideosystems.com,AR3
+2608,"New Context Services, Inc",Y,Mike Bergfors,206-465-4528,50 Mbps,717 Market St #200  SF CA 94103,,104.56.112.141,253458420,"mike.bergfors@newcontext.com, jbd@newcontext.com, nathan.shimek@newcontext.com",AT&T Uverse
