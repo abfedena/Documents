@@ -1,0 +1,18 @@
+---  
+- hosts: localhost  
+  connection: local  
+  gather_facts: no    
+  vars:  
+    #your region  
+    region: ap-southeast-2    
+  tasks:  
+    - name: EC2 basic provisioning  
+      ec2:
+        region: "{{ region }}"  
+        key_name: yan-key-pair-apsydney  
+        instance_type: t1.micro  
+        image: ami-6bf99c51      
+        group: sg_webserver_apsydney
+        instance_tags:  
+          Name: "web{{ item }}"  
+      with_sequence: count=5

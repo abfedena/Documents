@@ -1,0 +1,13 @@
+---
+- hosts: localhost
+  gather_facts: no
+  connection: local 
+  vars:
+    bucketname: yan001
+  tasks:
+    - name: share file
+      s3:
+        bucket: "{{ bucketname }}"
+        object: /backup/database/test.txt
+        expiration: 3600
+        mode: geturl
