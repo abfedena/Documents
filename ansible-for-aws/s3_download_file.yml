@@ -1,0 +1,14 @@
+---
+- hosts: localhost
+  gather_facts: no
+  connection: local 
+  sudo: yes
+  vars:
+    bucketname: yan001
+  tasks:
+    - name: download file
+      s3:
+        bucket: "{{ bucketname }}"
+        object: /backup/database/test.txt
+        dest: test.txt
+        mode: get

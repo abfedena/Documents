@@ -1,0 +1,13 @@
+---  
+- hosts: localhost  
+  connection: local  
+  gather_facts: no   
+  tasks:
+    - name: create record 
+      route53:
+        command: create
+        zone: yankurniawan.com.
+        record: yankurniawan.com.
+        type: A
+        value: 54.79.34.239
+
