@@ -1,0 +1,12 @@
+#!/bin/bash
+
+apt-get install -y  nagios-nrpe-server nagios-plugins-basic
+apt-get install -y  nrpe-ng
+echo 'allowed_hosts=138.201.121.163' >>  /etc/nagios/nrpe.cfg
+sed -i 's/dont_blame_nrpe=0/dont_blame_nrpe=1/g'  /etc/nagios/nrpe.cfg
+
+echo 'command[check_disk_root]=/usr/lib/nagios/plugins/check_disk -w 20% -c 10% -p / ' >> /etc/nagios/nrpe.cfg
+service nagios-nrpe-server restart
+systemctl enable nagios-nrpe-server
+iptables -I INPUT -p tcp --dport 5666 -s 138.201.121.163 -j ACCEPT
+iptables-save
